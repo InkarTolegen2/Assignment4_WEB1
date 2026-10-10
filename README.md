@@ -7,7 +7,7 @@
 
 ## Links:
 
-- Github:
+- Github: https://github.com/InkarTolegen2/Assignment4_WEB1.git
 - URL Task 0-1: https://inkartolegen2.github.io/Assignment4_WEB1/
 - URL Task 2-3: https://inkartolegen2.github.io/Assignment4_WEB1/bootstrap
 - URL Task 4: https://inkartolegen2.github.io/Assignment4_WEB1/register
