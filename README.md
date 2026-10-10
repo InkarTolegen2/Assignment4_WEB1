@@ -8,9 +8,9 @@
 ## Links:
 
 - Github:
-- URL Task 0-1:
-- URL Task 2-3:
-- URL Task 4:
+- URL Task 0-1: https://inkartolegen2.github.io/Assignment4_WEB1/
+- URL Task 2-3: https://inkartolegen2.github.io/Assignment4_WEB1/bootstrap
+- URL Task 4: https://inkartolegen2.github.io/Assignment4_WEB1/register
 
 ---
 
@@ -132,4 +132,7 @@ After Reset:
 ---
 
 ## Summary
-[3-5 предложений своими словами: что делала, какие были трудности, что узнала про валидацию и Bootstrap]
+
+I built a contact form with labels and HTML5 validation  (`required`, `minlength`, `type="email"`),  then recreated it with Bootstrap 5 using the grid system, placeholders and helper text. I added Bootstrap validation (`is-valid` / `is-invalid`)  with JavaScript and `checkValidity()`.  Finally, I made a  responsive registration form with password confirmation (`setCustomValidity()`) and a Reset button that clears the validation styles.
+
+The main difficulties were connecting Bootstrap correctly and structuring the grid (`row` and `col-md-6`).
